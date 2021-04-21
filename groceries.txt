@@ -1,0 +1,6 @@
+Bread
+Eggs
+Fish
+Fruit
+Meat
+Vegetables
